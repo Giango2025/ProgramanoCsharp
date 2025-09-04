@@ -29,7 +29,7 @@ namespace ProgramanoCsharp
             //proceso
             s = (a + b + b)/2;
 
-            area= Math.Sqrt(s* (s - a)*(s  -b)*(s - c));
+            area = Math.Sqrt(s * (s - a) * (s - b) * (s - c));
 
             //imprimir datos
 
